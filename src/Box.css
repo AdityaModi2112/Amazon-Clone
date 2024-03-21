@@ -1,0 +1,46 @@
+.container{
+    height:450px;
+    width:320px;
+    background-color: white;
+}
+.first_line{
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right: 3px;
+}
+.uppercontainer{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.lowercontainer{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.firstdiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color:white;
+}
+.image_logo img{
+    margin-top: 15px;
+    height: 120px;
+    width: 120px;
+}
+.below_line{
+    color:black;
+    margin-top: 5px;
+}
+.last_line{
+    margin-left: 25px;
+    margin-top: 20px;
+    margin-right: 3px;
+    color: blue;
+    font-size: 10px;
+}
+h2{
+    color:black;
+}

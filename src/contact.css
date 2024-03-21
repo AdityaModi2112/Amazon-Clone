@@ -1,0 +1,65 @@
+.contact{
+    height: 500px;
+    background-color: #232F3E;
+}
+.upperdiv{
+    margin-left: 15%;
+    width:70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+}
+.lowerdiv{
+    width:70%;
+}
+.first_row{
+    margin-top: 50px;
+}
+
+h3,p{
+    margin-top: 5px;
+}
+.lowerdiv{
+    margin-left: 15%;
+    width:70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+}
+.first_line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+}
+
+.amaozon_logo{
+    margin-top: 10px;
+    height: 30px;
+}
+.header__op{
+    border:0.5px solid white;
+    border-radius: 7px;
+    margin-top: 30px;
+}
+.header__op img{
+    height:25px;
+}
+.header__op select{
+    font-size: 20px;
+    border:none;
+    color:white;
+    background-color:#232F3E;
+}
+.second_line{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+}
+.comp{
+    font-size: 15px;
+}

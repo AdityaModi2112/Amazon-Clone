@@ -1,0 +1,27 @@
+.checkoutProduct{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.checkLeft{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+.checkout_image{
+    height: 300px;
+    width:  300px;
+}
+.checkright{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.checkout_name{
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+.checkout_mrp strong{
+    text-decoration: line-through;
+}

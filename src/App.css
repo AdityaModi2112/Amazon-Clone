@@ -1,0 +1,19 @@
+.app{
+    background-color: lightgrey;
+}
+
+.footer{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    height: 40px;
+    text-decoration: none;
+    background-color:black;
+    color:white;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}
